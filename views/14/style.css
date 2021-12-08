@@ -1,0 +1,123 @@
+
+.hideButton{
+  background-color: #008080;
+  color: white;
+font-family:"Times New Roman";font-weight:lighter;font-size: 15px;height: 45px;padding: 7px 9px;}
+.bttn{background-color: #008080;color: white;font-family:"Times New Roman";font-weight:lighter;font-size: 20px;height: 45px;}
+#modal{ 
+  font-family: "Bell MT";  
+  text-align: center;
+}
+  #button, #buttonP, #buttonA, #buttonT{
+    float: left;
+    width: 20%;
+  }
+  #img{
+    position: absolute;
+    z-index: -100%;
+    margin-top: 0%;
+
+  }
+  hr{
+    background-color: white;
+  }
+  .bg{
+  } 
+  #cni{
+     font-family:"Times New Roman";font-size: 20px;height: 45px;
+  }#container{ 
+    position: absolute;z-index: 1000%;width: 100%;
+    background-color: white; color: white;font-family:"Times New Roman";font-family:"Times New Roman";font-size: 60px; height: 75px;}
+
+  body{
+    max-width: 100%;
+    font-family: "Times New Roman";
+  }
+  #deconecter{
+    font-size: 10px;
+    color: white;
+  }
+  .etape{
+    color: #008080;
+  }
+  .label1{
+    text-align: center;font-family: "Brush Script MT";font-weight:lighter;font-size: 15px;font-style: italic;color: #008080; 
+  }
+  label{
+    font-size: 20px; font-family: "Brush Script MT";
+  }
+
+  th{
+    text-align: center;font-size: 13px; font-family: "Cooper Std Black";}
+  td{
+    text-align: center;
+  } 
+  .orange{
+    background-color: #008080;  font-size: 35px; font-family: "Brush Script MT";border-color:  #008080;}
+  .orange1{
+    background-color: #008080;  font-size: 20px; font-family: "Cooper Std Black";border-color:  #008080;}
+  .label{
+    text-align: center;font-family: "Brush Script MT";font-weight:lighter;font-size: 27px;font-style: italic;color:  white;margin-top: 0%;background-color:  #008080;}
+  .labelh{text-align: center;font-family: "Cooper Std Black";font-weight:lighter;font-style: italic;color: white;}
+  .background{
+    background-color: white;
+  }
+ .white{ 
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+ }#imgProfil{
+    width: 65%;
+    height: 100%;
+    margin-left: 25%
+ }  
+
+ #imgDec{
+    width: 25%;
+    height: 35%;
+ }   
+  #table, #table1{  width: 100%;
+    background-color: transparent; font-family: "Times New Roman";
+    margin-top: 1%;
+    color: white;
+    height: auto;
+  }
+  #menu{  
+    width: 100%;
+    background-color: transparent; font-family: "Times New Roman";
+   
+    color: white;
+  }
+  #menu1{  
+    position: absolute;z-index: 1000%;
+    padding: 1%;
+    width: 100%;
+    background-color: white; font-family: "Times New Roman"; 
+  }
+  #menu2{  
+    position: absolute;z-index: 800%;
+    padding: 1%;
+    width: 100%;
+    background-color: white; font-family: "Times New Roman";
+    margin-top: 7%;
+  }
+  .tableRow{
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 5px;
+    padding: 2%;
+  }
+  .tableRow a img{
+   text-align: center;
+   margin-left:25%;
+  } 
+  .tableRadius{
+    background-color: rgba(0,0,0,0.9); 
+  }
+  .tableRadius1{ 
+    border-radius: 5px;
+    height: 75px;
+    margin-top: 0.25%;
+  }
+  .tableRadius1 button{
+    margin-top: 1%;
+  } 

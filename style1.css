@@ -1,0 +1,137 @@
+  #carouselinner{
+    width: 100%;
+  }
+@charset "utf-8";
+#modal{font-family: "Bell MT";font-style: italic;font-size: 125%;width: 100%;border-radius: 50%;}
+   #fulid img{position: absolute;z-index: -10;}i{color: red;} p{color: white;}
+   .form-signin {max-width: 500px;padding: 19px 29px 29px;margin: 0 auto;margin-top:10%;background-color: rgba(0,0,0,0.1);border: 1px solid #e5e5e5;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);/*-moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);box-shadow: 0 1px 2px rgba(0,0,0,.05);*/font-family:Tahoma, Geneva, sans-serif;color:#990000;font-weight:lighter;
+    }
+    .form-signin .form-signin-heading{color:#00A2D1;}.form-signin input[type="text"],.form-signin input[type="password"],.form-signin input[type="email"] {font-size: 16px;height: 45px;padding: 7px 9px;}.signin-form, .body-container{margin-top:1%;}.navbar-brand{font-family:"Lucida Handwriting";}#btn-submit{height:45px;}.hideButton:hover{background-color: #008080;color: white;font-family:"Times New Roman";font-weight:lighter;font-size: 15px;height: 45px;padding: 7px 9px;}.bttn{background-color: #008080;color: white;font-family:"Times New Roman";font-weight:lighter;font-size: 20px;height: 45px;padding: 7px 9px;}.h2{text-align: center; background-color: #008080; color:white;font-family:"Bell MT";font-weight:lighter;font-size: 65px;font-style: italic;}
+    .h3{text-align: center; color :white;  /*color: #008080;*/font-family:"Bell MT";font-weight:lighter;font-size: 45px;font-style: italic;}.h4{text-align: center; background-color: #008080; color:white;font-family:"Bell MT";font-weight:lighter;font-size: 10px;font-style: italic; position: fixed;left:0px; bottom:0px; height:30px; width:100%; }*{margin: 0%;padding: 0%;}.bttn{background-color: #008080; color: white;font-family:"Times New Roman";
+  font-weight:lighter;font-size: 20px;height: 45px;padding: 7px 9px;}.orange1{background-color: #008080;color: white;font-size: 20px; font-family: "Cooper Std Black";border-color:  #008080;}font-family: "times new roman";background-repeat: no-repeat;}.body{position: absolute;z-index: 1000%;}#login-form{ margin-top: 5%;}hr{background-color:  #008080;}#cercle{position: absolute;z-index: 1000%;width: 20%;max-width: 45%;height: 255px;background-color: rgba(0,0,0,0.6);border-radius: 50%;margin-top: 5%;margin-left: 40%;
+  margin-right: auto;text-align: center;display: none;}.imgbagnere{position: absolute;z-index: -2000;}
+  .orange{
+    color: orange; background-color:  rgba(0,0,0,0.3);  font-size: 20px; font-family: "Brush Script MT";border-color:   rgba(0,0,0,0.3);
+    }
+    .orange1{background-color: #008080;  font-size: 20px; font-family: "Cooper Std Black";border-color:  #008080;}
+  .label{
+  text-align: center;font-family: "Cooper Black";font-weight:lighter;font-size: 20px;color:white;margin-top: 0%;background-color:  transparent;
+    }
+  .labelh{
+    text-align: center;font-family: "Cooper Std Black";font-weight:lighter;font-style: italic;color: white;}
+    body #img{
+    position: absolute;
+    z-index: -1000%;
+    height: 100%;
+    width: 100%;
+   }
+   body{
+    background-color: #008080;/* rgba(0,0,0,0.9);*/
+   }
+   .bagnereauth{  
+    position: absolute;
+    z-index: 3000%; 
+    width: 100%; 
+   }  
+   .bagnereauth2{  
+    position: absolute;
+    /*background-color: rgba(0,0,0,0.2);*/
+    z-index: 3000%;
+    text-align: left;
+    font-size: 75px;
+    height: 100PX;
+    padding: 2%;
+    width: 95%;
+    margin-left: 2.5%; 
+   }
+   .bagnereauth1{ 
+    position: absolute;
+    z-index: 2000%;     
+    background-color: #008080;
+    /*rgba(0,0,0,0.9);*/
+    /*background-image: url('http://localhost/ipmies/bootstrap/img/slide/slide1.png');*/    
+    background-repeat: no-repeat;
+    height: 850px;
+    width: 95%;
+    margin-left: 2.5%;
+    border: 2px solid #008080; /*rgba(0,0,0,0.2);*/
+   }
+    .bagnereauth1 img{
+        height: 100%;
+        width: 100%;
+    }
+
+   .form-signin{
+    background-color: red;
+   }
+
+   #inscription{
+    width: 100%; 
+    color: white;   
+   }
+
+   #fluid{  
+    position: absolute;
+    z-index: 3000%;
+    height: 95%;
+    background-repeat: no-repeat;
+   }
+
+  
+   .img1{
+    float: left;
+    width: 10%;
+    height: 100%;
+   }
+    .img2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+    height: 100%;
+   }
+   .cololor-orange{
+    background-color: #008080;
+    color: white;
+  }
+  #bagnereauth{
+    margin-top: 0px;
+  }
+   .span{
+    color: #008080;
+/*    color: white;
+*/   } 
+.h{
+text-align: left; color :orange;  /*color: #008080;*/font-family:"Cooper Black";font-weight:lighter;font-size: 43px;}
+fieldset{
+  max-width: 100%;
+  min-width: 100%;padding: 2px 39px 39px;margin: 0 auto;margin-top:15%;
+  background-color: rgba(0,0,0,0.7);
+  margin-left: 4%;
+
+  border: 1px solid #008080;
+  -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.9);-moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);box-shadow: 0 1px 2px rgba(0,0,0,.05);font-family:Tahoma, Geneva, sans-serif;color:#990000;font-weight:lighter;
+}
+legend{
+  width: 75%;
+  margin-left: 13%;
+  text-align: center;
+  height: 100px;  -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
+
+/*    background-color: #008080;
+*/
+/*  border: 1px solid white;
+*/}
+
+legend .img{
+  width:30%;
+  height: 100%;
+  border-radius: 10px; 
+ }
+   #slixder{
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 15%;
+    margin-right: auto;
+
+   }

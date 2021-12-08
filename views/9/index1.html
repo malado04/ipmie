@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bootstrap Multiselect</title>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+        <link rel="stylesheet" href="docs/css/bootstrap-4.5.2.min.css" type="text/css">
+        <link rel="stylesheet" href="docs/css/bootstrap-example.min.css" type="text/css">
+        <link rel="stylesheet" href="docs/css/prettify.min.css" type="text/css">
+        <link rel="stylesheet" href="docs/css/fontawesome-5.15.1-web/all.css" type="text/css">
+
+        <script type="text/javascript" src="docs/js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="docs/js/bootstrap.bundle-4.5.2.min.js"></script>
+        <script type="text/javascript" src="docs/js/prettify.min.js"></script>
+
+        <link rel="stylesheet" href="dist/css/bootstrap-multiselect.css" type="text/css">
+        <script type="text/javascript" src="dist/js/bootstrap-multiselect.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                window.prettyPrint() && prettyPrint();
+            });
+        </script>
+
+        <style>
+            .nav-link.active {
+                font-weight: bold;
+            }
+
+            .badge {
+                font-size: 85%;
+            }
+        </style>
+    </head>
+    <body data-spy="scroll" data-target="#affix" style="font-size:14px;">
+     
+                        <div class="example">
+                            <script type="text/javascript">
+                                $(document).ready(function() {
+                                    $('#example-legacyFiltering').multiselect({
+                                        enableFiltering: true,
+                                        templates: {
+                                            filter: '<div class="multiselect-filter"><div class="input-group input-group-sm p-1"><div class="input-group-prepend"><i class="input-group-text fas fa-search"></i></div><input class="form-control multiselect-search" type="text" /><div class="input-group-append"><button class="multiselect-clear-filter input-group-text" type="button"><i class="fas fa-times"></i></button></div></div></div>'
+                                        }
+                                    });
+                                });
+                            </script>
+                            <select id="example-legacyFiltering" multiple="multiple">
+                                <option value="Mala">Mala 1</option>
+                                <option value="Ama">Ama 2</option>
+                                <option value="Bas3">Bas3 3</option>
+                                <option value="4">Option 4</option>
+                                <option value="5">Option 5</option>
+                            </select>
+                        </div> 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
